@@ -20,4 +20,8 @@ From the features, extraction of mean and standard deviation features.
 
 Cleaning of the mean and standard features.
 
-Now, loading of activity labels and naming of 
+Now, loading of activity labels and naming of the activities by column binding of the variables to the data set named "first_tidy_data.txt"
+
+Using ddply formed new text file "averages_data.txt" with the column means in it.
+
+
